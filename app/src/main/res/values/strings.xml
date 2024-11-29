@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lista de Contactos</string>
+    <string name="title">Nuevo Contacto</string>
+    <string name="nombre">Nombre</string>
+    <string name="title2">Editar Contacto</string>
+</resources>
